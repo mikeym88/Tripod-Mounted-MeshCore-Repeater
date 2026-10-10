@@ -8,6 +8,7 @@
   - [Main Parts](#main-parts)
   - [Enclosure](#enclosure)
   - [Power Management](#power-management)
+- [Tools](#tools)
 
 ## Summary
 
@@ -52,3 +53,16 @@ TODO
 ### Power Management
 
 TODO
+
+## Tools
+
+I've used various tools to make this repeater:
+
+* Drill
+* Electric Screwdriver
+* Step bits
+* Hole Saw bits
+* Soldering iron
+* Heat gun
+* Calipers
+* Multimeter
