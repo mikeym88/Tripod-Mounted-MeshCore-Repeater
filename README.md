@@ -41,6 +41,7 @@ I've used various tools to make this repeater:
 * Step bits
 * Hole Saw bits &amp; Deburring tool
 * Soldering iron
+* Wire strippers
 * Heat gun / Lighter
 * Calipers
 
