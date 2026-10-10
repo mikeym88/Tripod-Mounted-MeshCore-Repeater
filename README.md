@@ -35,14 +35,14 @@ I decided to build a 1 Watt solar-powered and tripod-mounted MeshCore repeater. 
 
 I've used various tools to make this repeater:
 
-* Drill
-* Electric Screwdriver
+* [iFixit Manta Driver Kit](https://www.ifixit.com/en-ca/products/manta-driver-kit-112-bit-driver-kit)
+* [EEVblog BM235 Multimeter](https://eevblog.store/products/eevblog-bm235-multimeter)
+* Drill &amp; Electric Screwdriver
 * Step bits
-* Hole Saw bits &amp; deburring tool
+* Hole Saw bits &amp; Deburring tool
 * Soldering iron
 * Heat gun / Lighter
 * Calipers
-* Multimeter
 
 ## Parts List
 
@@ -60,7 +60,8 @@ Below is an image of the components that are inside the repeater's enclosure.
 * 10W USB-C Solar Panel - [AliExpress](https://www.aliexpress.com/item/1005009983374214.html)
   * Camera Clamp - [Amazon](https://www.amazon.ca/dp/B07PHNRS3N)
   * 1/4" Male to 1/4" Male Tripod Screw Adapter - [Amazon](https://www.amazon.ca/dp/B077SBSJM2)
-* Antenna, similar to this one - [Amazon](https://www.amazon.ca/ALFA-Network-AOA-915-5ACM-802-11ah-Application/dp/B08H8J6ZV6)
+  * 1/4" Camera Hot Shoe Mount - [Amazon](https://www.amazon.ca/dp/B075M336JZ)
+* Antenna - [Amazon](https://www.amazon.ca/ALFA-Network-AOA-915-5ACM-802-11ah-Application/dp/B08H8J6ZV6)
 
 Future Additions:
 
